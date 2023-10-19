@@ -1,3 +1,14 @@
+[tableau project](https://public.tableau.com/views/Book1_16929013760850/revenuebyproductline?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[tableau project](https://public.tableau.com/shared/S36B22934?:display_count=n&:origin=viz_share_link) 
+
+[tableau project](https://public.tableau.com/views/housedata_16941430025890/KingCountyHouseSales?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[tableau project](https://public.tableau.com/views/KingCountyHouseSale_16942719868200/KingCountyHouseSales?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[tableau project](https://public.tableau.com/views/heartfailuresdashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
 
 use hrdata;
 SELECT * FROM hrdata.hr;
@@ -108,6 +119,7 @@ SELECT
     ORDER BY department,jobtitle,gender;
     ### What is the distribution of jobtitles across the company
     SELECT jobtitle ,count(*) AS count
+    
     FROM hr
     WHERE termdate IS  NULL
     GROUP BY jobtitle;
