@@ -6,7 +6,8 @@
 
 [tableau project](https://public.tableau.com/views/KingCountyHouseSale_16942719868200/KingCountyHouseSales?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-[tableau project](https://public.tableau.com/views/heartfailuresdashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[tableau project](https://public.tableau.com/views/Book1_16929013760850/salesdashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 
 
 
